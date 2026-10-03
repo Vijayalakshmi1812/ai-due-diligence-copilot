@@ -1,5 +1,7 @@
 # AI Due Diligence Copilot
 
+   ![Report](docs/report.png)
+
 A RAG platform that analyzes company filings (10-K, annual reports, investor decks, market reports) and produces **source-backed** risk assessments, growth opportunities and executive summaries. Every finding cites the document page it came from.
 
 ## Features
